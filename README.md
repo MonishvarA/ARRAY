@@ -86,10 +86,7 @@ def sort012(arr):
 ### Prerequisites:
 - Python 3.x
 
-### Run the script:
-```bash
-python sorting\ array\ without\ sorting\ algo\ only012.py
-```
+
 
 ### Example Input:
 ```
